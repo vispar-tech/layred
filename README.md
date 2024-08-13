@@ -1,16 +1,25 @@
-<h1 align="left">hey there 👋</h1>
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<p align="center">
+<img alt="habr" src="https://img.shields.io/badge/habr-gray?style=for-the-badge&logo=habr&logoColor=white&color=gray&link=https%3A%2F%2Ft.me%2Fvispar_work">&nbsp;
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&logoColor=white&color=gray&link=https%3A%2F%2Ft.me%2Fvispar_work">&nbsp;
+<img alt="Channel" src="https://img.shields.io/badge/Channel-gray?style=for-the-badge&logo=telegram&logoColor=white&color=gray&link=https%3A%2F%2Ft.me%2Fvispar_journal">
+</p>
 
 ###
 
-<p align="left">I'm Daniil from Saints-Petersburg<br><br>- 🔭 I’m working as full-stack developer<br>- ⚡ In my free time I make some usable project/libraries for peoples</p>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
+- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
+- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
+- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
+- 👯 We can connect to play some games of Chess ♟
+- ⚡ Fun fact: Je connais un peu le français
+- 🧑‍💻 Tech I work on :
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
@@ -36,19 +45,9 @@
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
-###
+---
+### <img src="https://skillicons.dev/icons?i=github" width='20' /> My Github Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vispar-tech&layout=compact&theme=dark&hide=css,html,php&hide_border=true)
 
-<h3 align="left">🔗 Social links</h3>
 
-<div align="left">
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&logoColor=white&color=gray&link=https%3A%2F%2Ft.me%2Fvispar_work">
- <img alt="Channel" src="https://img.shields.io/badge/Channel-gray?style=for-the-badge&logo=telegram&logoColor=white&color=gray&link=https%3A%2F%2Ft.me%2Fvispar_journal">
 
-</div>
-
-###
-<h3 align="left">👀 Profile visits</h3>
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/vispar-tech/count.svg?"  height="20"/>
-</div>
